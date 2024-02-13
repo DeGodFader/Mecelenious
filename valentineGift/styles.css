@@ -178,10 +178,12 @@
     p{
         font-size: 12px;
         font-family: 'Protest Riot', sans-serif;
+        margin-top: 0.5em; 
+        margin-bottom: 0.5em; 
     }
 
     .message{
-        padding: 5px 10px;
+        padding: 0px 10px;
         position: absolute;
     }
 
